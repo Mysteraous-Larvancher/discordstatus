@@ -4,6 +4,6 @@ version: 2
 enable-beta-ecosystems: true
 updates:
   - package-ecosystem: "beta-ecosystem"
-    directory: "/"
+    directory: "main.py"
     schedule:
       interval: "weekly"
